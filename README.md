@@ -6,7 +6,7 @@
 
 Join the open source celebration and leave a mark on the open source world! 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Awesome](https://awesome.re/badge.svg)](https://github.com/vinitshahdeo/HacktoberFest2K19/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
@@ -47,6 +47,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | JavaScript  |
 | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | JavaScript  |
 | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | JavaScript  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [[Documentation Missing] Add JSDoc](https://github.com/vinitshahdeo/Cookie-Manager/issues/13) | JavaScript  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | NodeJS  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | NodeJS  |
@@ -91,3 +92,5 @@ if (isAwesome) {
 ```
 
 -----------
+
+[![HacktoberFest](./hacktoberfestfooter.png)](https://vinitshahdeo.github.io/HacktoberFest2K19/)
