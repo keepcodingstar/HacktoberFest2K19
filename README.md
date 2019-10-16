@@ -12,6 +12,8 @@ Join the open source celebration and leave a mark on the open source world!
 
 > I've opened few issues for beginners. Take up any issue and send your first PR!
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) [![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/vinitshahdeo/inspirational-quotes?logo=digitalocean&style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)
+
 | Repository  | Issues  | Pull Requests  |
 |---|---|---|
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  |
@@ -62,6 +64,8 @@ Join the open source celebration and leave a mark on the open source world!
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/7)
 
 ```js
 
